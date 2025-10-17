@@ -2,7 +2,7 @@ export function footer(){
     const pathPrefix = window.location.pathname.includes("/pages/")
       ? "../components/Images/"
       : "./components/Images/";
-    return `<div class="footer">
+    return `<div class="footer" id="footer">
     <div class="footer-top">
       <div class="footer-brand">
         <img
