@@ -43,7 +43,7 @@ body {
 }
 
 .notice-banner {
-  margin-top: 96px;
+  margin-top: 24px;
   background: var(--brand-black);
   color: #fff;
   display: flex;
@@ -791,7 +791,7 @@ button {
   }
 
   .notice-banner {
-    margin-top: 96px;
+    margin-top: 16px;
     padding: 16px 24px;
   }
 
